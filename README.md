@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react, node.js mongodb,expess.js**
 
-- 👯 I’m looking to collaborate on [Virtual Time Capsule](https://abhishek5137.github.io/get_weather_webdev/)
+- 👯 I’m looking to collaborate on [Virtual Time Capsule](https://virtuel-time-capsule.vercel.app/)
 
 - 🤝 I’m looking for help with [Portfolio](https://abhishek5137.github.io/portfolio/)
 
